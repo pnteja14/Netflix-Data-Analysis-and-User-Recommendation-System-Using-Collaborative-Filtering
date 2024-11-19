@@ -1,0 +1,2 @@
+# Netflix-Data-Analysis-and-User-Recommendation-System-Using-Collaborative-Filtering
+This project builds a movie and TV show recommendation system using Collaborative Filtering and Content-Based Filtering. It personalizes content based on user interactions and metadata like genre, cast, and director. It also analyzes trends such as content type, release years, genre popularity, director insights, and regional preferences.
